@@ -1,0 +1,18 @@
+.link-more{
+  color: #ba2e1f;
+  text-decoration: none;
+  align-self: flex-end;
+  font-size: 14px;
+  line-height: 13px;
+  &:hover{
+    text-decoration: underline;
+  }
+}
+.link-more--promo{
+  text-transform: uppercase;
+}
+.link-more--content{
+  position: absolute;
+  right: 0;
+  bottom: -15px;
+}

@@ -1,0 +1,25 @@
+.promo{
+
+}
+.promo__img{
+  width: 400px;
+  height: 440px;
+}
+.promo__wrapper{
+  padding-top: 100px;
+  padding-left: 48px;
+  display: flex;
+  flex-direction: column;
+}
+.promo__header{
+  font-size: 86px;
+  line-height: 103px;
+  text-transform: uppercase;
+  font-weight: normal;
+}
+.promo__text{
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 100;
+  margin-bottom: 15px;
+}
